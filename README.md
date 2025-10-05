@@ -98,12 +98,6 @@ System.out.println(circularList); // [A, B, C]
 - ✅ Buffer circular
 - ✅ Jogos e simulações
 
-## 🧪 Testando as Estruturas
-
-```bash
-# Executar suíte de testes
-java -cp "bin:lib/dataStructures.jar" com.roukan.testdatastructures.view.TestListsView
-```
 
 ## 🏗️ Estrutura do Projeto
 
@@ -154,9 +148,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 🌟 Agradecimentos
 
-- Inspirado em cursos de estruturas de dados
+- Inspirado nas minhas aulas de estruturas de dados da faculdade
 - Comunidade Java por boas práticas
-- Contribuidores e testadores
 
 ---
 
