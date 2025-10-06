@@ -112,6 +112,12 @@ src/
     └── CircularNode.java       # Nó circular
 ```
 
+## 📚 Documentação
+
+A documentação completa da API com Javadoc está disponível em:  
+🔗 **[GitHub Pages - DataStructures Documentation](https://gabrielgit10110.github.io/EstruturasDeLista/)**
+
+
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Siga estos passos:
